@@ -119,8 +119,8 @@ data = read_data(lines)
 请修复 `report.py` 文件中的  `read_portfolio()` 和 `read_prices()` 函数。以便它们可以使用修改后的 `parse_csv()` 函数。这应该只涉及较小的修改。之后，`report.py` 和 `pcost.py` 程序应能够像以往一样工作。
 
 
-[查看解析：fileparse.py](../../Solutions/3_18/fileparse.py)
+[查看解析：fileparse.py](../../ef20_solutions/3_18/fileparse.py)
 
-[查看解析：pcost.py](../../Solutions/3_18/pcost.py)
+[查看解析：pcost.py](../../ef20_solutions/3_18/pcost.py)
 
-[查看解析：report.py](../../Solutions/3_18/report.py)
+[查看解析：report.py](../../ef20_solutions/3_18/report.py)

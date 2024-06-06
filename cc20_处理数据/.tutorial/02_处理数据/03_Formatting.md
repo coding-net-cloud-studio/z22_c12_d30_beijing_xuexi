@@ -158,7 +158,7 @@ b'Dave has 37 messages'
 
 ### 练习 2.9：收集数据
 
-在练习 2.7 中，编写了一个用于计算股票投资盈亏的程序 [`report.py`](../../Solutions/2_7/report.py)。在本练习中，需要修改这个程序来生成如下表格：
+在练习 2.7 中，编写了一个用于计算股票投资盈亏的程序 [`report.py`](../../ef20_solutions/2_7/report.py)。在本练习中，需要修改这个程序来生成如下表格：
 
 ```
       Name     Shares      Price     Change
@@ -259,7 +259,7 @@ headers = ('Name', 'Shares', 'Price', 'Change')
       MSFT         50      20.89     -44.21
        IBM        100     106.28      35.84
 ```
-[查看解析](../../Solutions/2_11/report.py)
+[查看解析](../../ef20_solutions/2_11/report.py)
 
 ### 练习 2.12：格式化挑战
 

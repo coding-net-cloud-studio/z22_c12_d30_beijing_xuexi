@@ -255,7 +255,7 @@ portfolio_report('Data/portfolio.csv', 'Data/prices.csv')
 ... look at the output ...
 >>>
 ```
-[查看解析](../../Solutions/3_2/report.py)
+[查看解析](../../ef20_solutions/3_2/report.py)
 ### 说明
 
 Python 使在有一系列语句的文件中编写相对无结构的脚本变得很轻松。总体来说，无论何时，尽可能地利用函数通常总是更好的选择。在某些时候，脚本会不断增加，并且我们希望它更有组织。另外，一个鲜为人知的事实是，如果使用函数，Python 的运行会更快一些。

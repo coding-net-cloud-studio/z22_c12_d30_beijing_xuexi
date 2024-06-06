@@ -1,6 +1,6 @@
 # Work Area
 
-Do all of your coding work here, in the `Work/` directory.  A number of starting
+Do all of your coding work here, in the `ef70_work/` directory.  A number of starting
 files have been given (`bounce.py`, `mortgage.py`, `pcost.py`, etc.) along with
 their corresponding exercise number.
 

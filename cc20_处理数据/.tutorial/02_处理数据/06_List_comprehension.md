@@ -94,7 +94,7 @@ a = { x^2 | x ∈ s, x > 0 }         # Math
 首先运行 `report.py` 程序，以便能够在交互模式下中加载股票投资组合。
 
 ```bash
-bash % python3 -i Playground/02_处理数据/report.py
+bash % python3 -i ef42_playground/02_处理数据/report.py
 ```
 
 现在，在 Python 交互提示符下，输入语句以执行下述操作。这些操作对投资组合数据执行各类缩减，转换和查找。

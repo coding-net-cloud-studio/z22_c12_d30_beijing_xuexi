@@ -20,19 +20,19 @@ chapters:
     run: 
   - title: "02 容器"
     article: "02_处理数据/02_Containers.md"
-    code: "../Playground/02_处理数据/report.py"
+    code: "../ef42_playground/02_处理数据/report.py"
     video: ""
-    run: python3 Playground/02_处理数据/report.py
+    run: python3 ef42_playground/02_处理数据/report.py
   - title: "03 格式化"
     article: "02_处理数据/03_Formatting.md"
-    code: "../Playground/02_处理数据/report.py"
+    code: "../ef42_playground/02_处理数据/report.py"
     video: ""
-    run: python3 Playground/02_处理数据/report.py
+    run: python3 ef42_playground/02_处理数据/report.py
   - title: "04 序列"
     article: "02_处理数据/04_Sequences.md"
-    code: "../Playground/02_处理数据/report.py"
+    code: "../ef42_playground/02_处理数据/report.py"
     video: ""
-    run: python3 Playground/02_处理数据/report.py
+    run: python3 ef42_playground/02_处理数据/report.py
   - title: "05 collections 模块"
     article: "02_处理数据/05_Collections.md"
     code: 

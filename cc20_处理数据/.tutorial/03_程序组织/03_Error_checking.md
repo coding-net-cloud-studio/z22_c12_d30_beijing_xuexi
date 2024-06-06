@@ -353,5 +353,5 @@ Row 7: Reason invalid literal for int() with base 10: ''
 [{'price': 32.2, 'name': 'AA', 'shares': 100}, {'price': 91.1, 'name': 'IBM', 'shares': 50}, {'price': 83.44, 'name': 'CAT', 'shares': 150}, {'price': 40.37, 'name': 'GE', 'shares': 95}, {'price': 65.1, 'name': 'MSFT', 'shares': 50}]
 >>>
 ```
-[查看解析](../../Solutions/3_10/fileparse.py)
+[查看解析](../../ef20_solutions/3_10/fileparse.py)
 在大部分的程序中，错误处理是最难做好的事情之一。一般来说，不应该默默地忽略错误。相反，最好是报告问题，并且让用户选择是否隐藏错误信息（如果它们选择这样做）。

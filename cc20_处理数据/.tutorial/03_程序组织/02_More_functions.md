@@ -237,7 +237,7 @@ print(b)                # [1, 2, 3]
 
 如果真的需要对大量的文件进行解析，可能需要清理其中的一些内容使其更通用。这是我们的目标。
 
-通过打开 `Work/fileparse.py` 文件开始本练习，该文件是我们将要写代码的地方。
+通过打开 `ef70_work/fileparse.py` 文件开始本练习，该文件是我们将要写代码的地方。
 
 ### 练习 3.3：读取 CSV 文件
 
@@ -452,7 +452,7 @@ rows = csv.reader(f, delimiter=' ')
 [{'price': '32.20', 'name': 'AA', 'shares': '100'}, {'price': '91.10', 'name': 'IBM', 'shares': '50'}, {'price': '83.44', 'name': 'CAT', 'shares': '150'}, {'price': '51.23', 'name': 'MSFT', 'shares': '200'}, {'price': '40.37', 'name': 'GE', 'shares': '95'}, {'price': '65.10', 'name': 'MSFT', 'shares': '50'}, {'price': '70.44', 'name': 'IBM', 'shares': '100'}]
 >>>
 ```
-[查看解析](../../Solutions/3_7/fileparse.py)
+[查看解析](../../ef20_solutions/3_7/fileparse.py)
 ### 说明
 
 到目前为止，如果你已经完成，那么你创建了一个非常有用的库函数。你可以使用它去解析任意的 CSV 文件，选择感兴趣的列，执行类型转换，而不用对文件或者 `csv` 模块的内部工作有太多的担心。

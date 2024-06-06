@@ -37,8 +37,8 @@ def read_prices(filename):
 
     return prices
 
-portfolio = read_portfolio('../../Work/Data/portfolio.csv')
-prices    = read_prices('../../Work/Data/prices.csv')
+portfolio = read_portfolio('../../ef70_work/Data/portfolio.csv')
+prices    = read_prices('../../ef70_work/Data/prices.csv')
 
 # Calculate the total cost of the portfolio
 total_cost = 0.0

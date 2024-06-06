@@ -180,7 +180,7 @@ Python 3.6.0 (default, Feb 3 2017, 05:53:21)
 
 ## 练习
 
-因为本练习涉及模块，所以确保在适当的环境中运行 Python 至关重要。模块经常给编程新手带来问题，这些问题与当前工作目录相关或者与 Python 路径设置相关。对于本课程，假定您是在 `Work/` 目录下编写所有的代码。为了获得最佳结果，应该确保也是在 `Work/`  目录下运行解释器。否则，需要确保 `practical-python/Work` 已添加到 `sys.path`。
+因为本练习涉及模块，所以确保在适当的环境中运行 Python 至关重要。模块经常给编程新手带来问题，这些问题与当前工作目录相关或者与 Python 路径设置相关。对于本课程，假定您是在 `ef70_work/` 目录下编写所有的代码。为了获得最佳结果，应该确保也是在 `ef70_work/`  目录下运行解释器。否则，需要确保 `practical-python/Work` 已添加到 `sys.path`。
 
 ### 练习 3.11：模块导入
 
@@ -281,11 +281,11 @@ Type "help", "copyright", "credits" or "license" for more information.
 
 请修改 `pcost.py` 文件，以便它能够使用 `report.read_portfolio()` 函数。
 
-[查看解析：fileparse.py](../../Solutions/3_14/fileparse.py)
+[查看解析：fileparse.py](../../ef20_solutions/3_14/fileparse.py)
 
-[查看解析：pcost.py](../../Solutions/3_14/pcost.py)
+[查看解析：pcost.py](../../ef20_solutions/3_14/pcost.py)
 
-[查看解析：report.py](../../Solutions/3_14/report.py)
+[查看解析：report.py](../../ef20_solutions/3_14/report.py)
 ### 说明
 
 当完成练习后，您应该拥有三个程序。包含通用目的函数 `parse_csv()` 的`fileparse.py` 程序。用于生成报告，且包含 `read_portfolio()` 和 `read_prices()` 函数的 `report.py` 程序。最后，利用 `report.py` 程序中编写的`read_portfolio()` 函数去计算股票投资组合费用的 `pcost.py` 程序。

@@ -166,7 +166,7 @@ b = float(x)  # Convert x to float
 
 ## 练习
 
-提醒：这些练习假定你正在 [`Work/01_入门介绍`](../../Playground/01_入门介绍) 目录中操作，具体在 [`mortgage.py`](../../Work/mortgage.py) 文件。
+提醒：这些练习假定你正在 [`ef70_work/01_入门介绍`](../../ef42_playground/01_入门介绍) 目录中操作，具体在 [`mortgage.py`](../../ef70_work/mortgage.py) 文件。
 
 ### 练习 1.7：戴夫的抵押贷款
 
@@ -228,7 +228,7 @@ extra_payment = 1000
 Total paid 880074.1
 Months 310
 ```
-[查看解析](../../Solutions/1_10/mortgage.py)
+[查看解析](../../ef20_solutions/1_10/mortgage.py)
 
 
 ### 练习 1.11：奖金

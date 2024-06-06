@@ -84,7 +84,7 @@ with open('outfile', 'wt') as out:
 
 ## 练习
 
-本练习依赖于 `Data/portfolio.csv` 文件。该文件由一行一行的关于股票投资组合的信息构成。假定你是在  `practical-python/Work/` 目录下进行操作。如果你不确定自己所在的目录，你可以通过执行以下操作找出 Python 运行的目录：
+本练习依赖于 `Data/portfolio.csv` 文件。该文件由一行一行的关于股票投资组合的信息构成。假定你是在  `practical-python/ef70_work/` 目录下进行操作。如果你不确定自己所在的目录，你可以通过执行以下操作找出 Python 运行的目录：
 
 ```python
 >>> import os
@@ -188,7 +188,7 @@ name,shares,price
 ```bash
 Total cost 44671.15
 ```
-[查看解析](../../Solutions/1_27/pcost.py)
+[查看解析](../../ef20_solutions/1_27/pcost.py)
 
 ### 练习 1.28: 其它类型的“文件"
 

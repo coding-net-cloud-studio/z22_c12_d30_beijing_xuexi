@@ -242,4 +242,4 @@ bash % python3 pcost.py Data/portfolio.csv
 Total cost: 44671.15
 bash %
 ```
-[查看解析](../../Solutions/1_33/pcost.py)
+[查看解析](../../ef20_solutions/1_33/pcost.py)

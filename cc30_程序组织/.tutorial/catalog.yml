@@ -15,24 +15,24 @@ chapters:
     run: 
   - title: "01 脚本"
     article: "03_程序组织/01_Script.md"
-    code: "../Playground/03_程序组织/report.py"
+    code: "../ef42_playground/03_程序组织/report.py"
     video: ""
-    run: python3 Playground/03_程序组织/report.py
+    run: python3 ef42_playground/03_程序组织/report.py
   - title: "02 深入函数"
     article: "03_程序组织/02_More_functions.md"
-    code: "../Playground/03_程序组织/fileparse.py"
+    code: "../ef42_playground/03_程序组织/fileparse.py"
     video: ""
-    run: python3 Playground/03_程序组织/fileparse.py
+    run: python3 ef42_playground/03_程序组织/fileparse.py
   - title: "03 错误检查"
     article: "03_程序组织/03_Error_checking.md"
-    code: "../Playground/03_程序组织/fileparse.py"
+    code: "../ef42_playground/03_程序组织/fileparse.py"
     video: ""
-    run: python3 Playground/03_程序组织/fileparse.py
+    run: python3 ef42_playground/03_程序组织/fileparse.py
   - title: "04 模块和导入"
     article: "03_程序组织/04_Modules.md"
-    code: "../Playground/03_程序组织/exercise.py"
+    code: "../ef42_playground/03_程序组织/exercise.py"
     video: ""
-    run: python3 Playground/03_程序组织/exercise.py
+    run: python3 ef42_playground/03_程序组织/exercise.py
   - title: "05 主模块"
     article: "03_程序组织/05_Main_module.md"
     code: "../exercise.py"
@@ -40,6 +40,6 @@ chapters:
     run: python ./exercise.py
   - title: "06 设计讨论"
     article: "03_程序组织/06_Design_discussion.md"
-    code: "../Playground/03_程序组织/fileparse.py"
+    code: "../ef42_playground/03_程序组织/fileparse.py"
     video: ""
-    run: python3 Playground/03_程序组织/fileparse.py
+    run: python3 ef42_playground/03_程序组织/fileparse.py

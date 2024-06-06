@@ -20,14 +20,14 @@ chapters:
     run: 
   - title: "02 Hello World"
     article: "01_入门介绍/02_Hello_world.md"
-    code: "../Playground/01_入门介绍/sears.py"
+    code: "../ef42_playground/01_入门介绍/sears.py"
     video: ""
-    run: python3 Playground/01_入门介绍/sears.py
+    run: python3 ef42_playground/01_入门介绍/sears.py
   - title: "03 数字"
     article: "01_入门介绍/03_Numbers.md"
-    code: "../Playground/01_入门介绍/mortgage.py"
+    code: "../ef42_playground/01_入门介绍/mortgage.py"
     video: ""
-    run: python3 Playground/01_入门介绍/mortgage.py
+    run: python3 ef42_playground/01_入门介绍/mortgage.py
   - title: "04 字符串"
     article: "01_入门介绍/04_Strings.md"
     code: 
@@ -35,16 +35,16 @@ chapters:
     run: 
   - title: "05 列表"
     article: "01_入门介绍/05_Lists.md"
-    code: "../Playground/01_入门介绍/excercise.py"
+    code: "../ef42_playground/01_入门介绍/excercise.py"
     video: ""
-    run: python3 Playground/01_入门介绍/excercise.py
+    run: python3 ef42_playground/01_入门介绍/excercise.py
   - title: "06 文件"
     article: "01_入门介绍/06_Files.md"
-    code: "../Playground/01_入门介绍/pcost.py"
+    code: "../ef42_playground/01_入门介绍/pcost.py"
     video: ""
-    run: python3 Playground/01_入门介绍/pcost.py
+    run: python3 ef42_playground/01_入门介绍/pcost.py
   - title: "07 函数"
     article: "01_入门介绍/07_Functions.md"
-    code: "../Playground/01_入门介绍/pcost.py"
+    code: "../ef42_playground/01_入门介绍/pcost.py"
     video: ""
-    run: python3 Playground/01_入门介绍/pcost.py
+    run: python3 ef42_playground/01_入门介绍/pcost.py

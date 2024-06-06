@@ -295,8 +295,8 @@ bash $ python3 pcost.py Data/portfolio.csv
 Total cost: 44671.15
 ```
 
-[查看解析：fileparse.py](../../Solutions/3_16/fileparse.py)
+[查看解析：fileparse.py](../../ef20_solutions/3_16/fileparse.py)
 
-[查看解析：pcost.py](../../Solutions/3_16/pcost.py)
+[查看解析：pcost.py](../../ef20_solutions/3_16/pcost.py)
 
-[查看解析：report.py](../../Solutions/3_16/report.py)
+[查看解析：report.py](../../ef20_solutions/3_16/report.py)

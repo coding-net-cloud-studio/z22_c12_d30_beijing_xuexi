@@ -438,9 +438,9 @@ name,date,time,shares,price
 
 尝试以 `Data/portfoliodate.csv` 文件作为输入，运行 `report.py` 程序，并观察是否生成和之前一样的答案。
 
-[查看解析：pcost.py](../../Solutions/2_16/pcost.py)
+[查看解析：pcost.py](../../ef20_solutions/2_16/pcost.py)
 
-[查看解析：report.py](../../Solutions/2_16/report.py)
+[查看解析：report.py](../../ef20_solutions/2_16/report.py)
 
 ### 练习 2.17：翻转字典
 

@@ -203,7 +203,7 @@ def test_str():
 
 在本次练习中，我们将探索使用 Python `unittest` 模块的基本机制（mechanics）。
 
-在前面的练习中，我们编写了一个包含 `Stock` 类的 `stock.py` 文件。对于本次练习，假设我们使用的是 [练习7.9](../07_Advanced_Topics/03_Returning_functions) 中编写的与类型化属性相关的代码（译注：`typedproperty.py`）。如果因为某些原因，练习 7.9 的代码无法正常工作，你可以从 `Solutions/7_9` 中复制 `typedproperty.py` 到工作目录中。
+在前面的练习中，我们编写了一个包含 `Stock` 类的 `stock.py` 文件。对于本次练习，假设我们使用的是 [练习7.9](../07_Advanced_Topics/03_Returning_functions) 中编写的与类型化属性相关的代码（译注：`typedproperty.py`）。如果因为某些原因，练习 7.9 的代码无法正常工作，你可以从 `ef20_solutions/7_9` 中复制 `typedproperty.py` 到工作目录中。
 
 ### 练习 8.1：编写单元测试
 
