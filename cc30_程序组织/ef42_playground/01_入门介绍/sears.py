@@ -9,6 +9,6 @@ while num_bills * bill_thickness < sears_height:
     day = day + 1
     num_bills = num_bills * 2
 
-print('Number of days', day)
-print('Number of bills', num_bills)
-print('Final height', num_bills * bill_thickness)
+print("Number of days", day)
+print("Number of bills", num_bills)
+print("Final height", num_bills * bill_thickness)
