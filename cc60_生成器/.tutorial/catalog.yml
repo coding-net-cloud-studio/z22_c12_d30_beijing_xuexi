@@ -7,29 +7,29 @@
 #  1. 如没有对应资源，相关字段保留并留空
 #  2. 视频课程地址请使用视频网站提供的iframe分享代码
 
-chapters:  
+chapters:
   - title: "章节介绍"
-    article: "00_Overview.md"
-    code: "../exercise.py"
+    article: "06_生成器/00_Overview.md"
+    code:
     video: ""
-    run: python ./exercise.py
+    run:
   - title: "01 迭代协议"
-    article: "01_Iteration_protocol.md"
-    code: "../exercise.py"
+    article: "06_生成器/01_Iteration_protocol.md"
+    code: "../ef42_playground/06_生成器/report.py"
     video: ""
-    run: python ./exercise.py
+    run: python3 ef42_playground/06_生成器/report.py
   - title: "02 自定义迭代"
-    article: "02_Customizing_iteration.md"
-    code: "../exercise.py"
+    article: "06_生成器/02_Customizing_iteration.md"
+    code: "../ef42_playground/Data/stocksim.py"
     video: ""
-    run: python ./exercise.py
+    run: python3 ef42_playground/Data/stocksim.py
   - title: "03 生产者，消费者和管道"
-    article: "03_Producers_consumers.md"
-    code: "../exercise.py"
+    article: "06_生成器/03_Producers_consumers.md"
+    code: "../ef42_playground/Data/stocksim.py"
     video: ""
-    run: python ./exercise.py
+    run: python3 ef42_playground/Data/stocksim.py
   - title: "04 有关生成器的更多信息"
-    article: "04_More_generators.md"
-    code: "../exercise.py"
+    article: "06_生成器/04_More_generators.md"
+    code: "../ef42_playground/Data/stocksim.py"
     video: ""
-    run: python ./exercise.py
+    run: python3 ef42_playground/Data/stocksim.py

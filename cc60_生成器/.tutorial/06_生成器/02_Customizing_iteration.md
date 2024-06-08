@@ -218,6 +218,19 @@ if __name__ == '__main__':
 
 注意事项：要想这段代码能够运行， `Portfolio` 类必须支持 `in` 运算符。请参阅 [练习 6.3 ](01_Iteration_protocol) ，确保 `Portfolio` 类实现了 `__contains__()` 运算符。
 
+### 查看解析↓
+[fileparse.py](../../Solutions/6_7/fileparse.py)
+
+[pcost.py](../../Solutions/6_7/pcost.py)
+
+[portfolio.py](../../Solutions/6_7/portfolio.py)
+
+[report.py](../../Solutions/6_7/report.py)
+
+[stock.py](../../Solutions/6_7/stock.py)
+
+[tableformat.py](../../Solutions/6_7/tableformat.py)
+
 ### 讨论
 
 在这里，你将一个有趣的迭代模式（在文件末尾读取行）移动到函数中。`follow()`函数现在是可以在任何程序中使用的完全通用的实用程序。例如，你可以使用 `follow()` 函数查看服务器日志、调试日志、其它类似的数据源。

@@ -272,6 +272,21 @@ CAT,78.05,-0.47
 ...
 ```
 
+### 查看解析↓
+[fileparse.py](../../Solutions/6_12/fileparse.py)
+
+[pcost.py](../../Solutions/6_12/pcost.py)
+
+[portfolio.py](../../Solutions/6_12/portfolio.py)
+
+[report.py](../../Solutions/6_12/report.py)
+
+[stock.py](../../Solutions/6_12/stock.py)
+
+[tableformat.py](../../Solutions/6_12/tableformat.py)
+
+[ticker.py](../../Solutions/6_12/ticker.py)
+
 ### 讨论
 
 心得体会：你可以创建各种生成器函数，并把它们链接在一起执行涉及数据流的管道处理。另外，你可以创建一个函数，把一系列的管道阶段打包到一个单独的函数中调用（例如 `parse_stock_data()` 函数）。

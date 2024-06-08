@@ -85,6 +85,11 @@ for s in port:
 ```
 
 ## 练习
+<br>
+
+> Tips：可使用 **Control/Ctrl + Shift+ `** 快速唤起终端。或者点击左上角菜单，点击工具箱的“终端”唤起。
+
+<br>
 
 ### 练习 6.1：迭代演示
 
@@ -294,3 +299,15 @@ False
 
 有关上述代码的一个重要发现——通常，如果一段代码和 Python 的其它代码"类似（speaks the common vocabulary of how other parts of Python normally work）"，那么该代码被认为是 “Pythonic” 的。同理，对于容器对象，其重要组成部分应该包括：支持迭代、可以进行索引、对所包含的元素进行判断，以及其它操作等等。
 
+### 查看解析↓
+[fileparse.py](../../Solutions/6_3/fileparse.py)
+
+[pcost.py](../../Solutions/6_3/pcost.py)
+
+[portfolio.py](../../Solutions/6_3/portfolio.py)
+
+[report.py](../../Solutions/6_3/report.py)
+
+[stock.py](../../Solutions/6_3/stock.py)
+
+[tableformat.py](../../Solutions/6_3/tableformat.py)
