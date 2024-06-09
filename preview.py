@@ -45,5 +45,5 @@ def home():
 
 
 if __name__ == "__main__":
-    app.run(debug=True)
+    app.run(host="0.0.0.0", debug=True)
     # 当直接运行该脚本时,启动Flask应用,并开启调试模式
